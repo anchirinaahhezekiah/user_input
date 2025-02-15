@@ -1,16 +1,36 @@
-# user_input_todo
+# ✅ Flutter To-Do App  
 
-A new Flutter project.
+A simple yet functional To-Do app built using Flutter. This app allows users to add, delete, and mark tasks as completed. Built with the help of a tutorial by [Mitch Koko](https://www.youtube.com/@mitchkoko).  
 
-## Getting Started
+## 📌 Features  
+- Add tasks with user input  
+- Mark tasks as completed/incomplete  
+- Delete tasks  
 
-This project is a starting point for a Flutter application.
+## 🛠 Tech Stack  
+- **Frontend:** Flutter (Dart)  
+- **State Management:** setState() (for handling UI updates)  
 
-A few resources to get you started if this is your first Flutter project:
+## 🚀 How to Run  
+1. Clone the repository:  
+   ```bash
+   git clone https://github.com/anchirinaahhezekiah/user_input.git
+   ```
+2. Navigate to the project folder:  
+   ```bash
+   cd user_input
+   ```
+3. Install dependencies:  
+   ```bash
+   flutter pub get
+   ```
+4. Run the app on an emulator or physical device:  
+   ```bash
+   flutter run
+   ```
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📚 Credits  
+- Inspired by Mitch Koko’s Flutter tutorial.  
+- Icons and assets from [Flutter packages](https://pub.dev/).  
+
